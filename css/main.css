@@ -82,6 +82,7 @@ body{
                 line-height: 100%;
                 letter-spacing: 0px;
                 font-weight: 400;
+                color: var(--stone-900);
             }
     
             p{
@@ -98,7 +99,7 @@ body{
             gap: 1rem;
             border-radius: 12px;
 
-            h3{
+            h2{
                 color: var(--rose-800);
                 font-size: 20px;
                 font-weight: 600;
